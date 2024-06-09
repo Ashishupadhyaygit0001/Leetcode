@@ -1,4 +1,4 @@
-//  Concept is if remainder is repeating then the value that which we are adding is also multiple of k
+//  Concept is if remainder is repeating in the map then the value that which we are adding is also multiple of k
 class Solution {
 public:
     bool checkSubarraySum(vector<int>& nums, int k) {
